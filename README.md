@@ -10,11 +10,16 @@
   - 👩🏻‍💻 I decided to focus on full-stack development so went ahead and joined General Assembly so I could build a strong foundation in all things development. 
 
 ### My Current Affairs:
+#### Tech:
   - 🔭 I’m currently working on Reads a MERN application for users to create virtual bookclubs and find the latest reads so we can all connect over our love for books. 📚
   - 🌱 I’m currently learning advanced topics in React, Azure, and dabbling a little in Django when I find the time! 
   - 💬 Ask me about Javascript, Python, or React!
   - 🎯 Aspiring Goal: Learn more about cloud technologies ☁️ 
+  
+#### Personal: 
   - 📖 Currently Reading: Crucial Conversations By: Kerry Patterson, et al.
+  - 👩🏽‍🎨 Currently Painting: With Acrylics!
+  - ✏️ Currently Writing: A Medium article on the pros/cons of going self-taught versus bootcamp 
 
 ### About Me: 
   - 📫 How to reach me: sahirabibi96@gmail.com 
