@@ -21,11 +21,11 @@
   - 👩🏽‍🎨 Currently Painting: With Acrylics!
   - ✏️ Currently Writing: A Medium article on the pros/cons of going self-taught versus bootcamp 
 
-### About Me: 
-  - 📫 How to reach me: sahirabibi96@gmail.com 
-  - 📄 My linkedIn: https://www.linkedin.com/in/sahirabibi/
-  - 📁 My Portfolio: https://sahirabibi.netlify.app/
-  - ✨ Pronouns: She / Her
+### Reach Me At: 
+  - 📫 Email: sahirabibi96@gmail.com 
+  - 📄 LinkedIn: https://www.linkedin.com/in/sahirabibi/
+  - 📁 Portfolio: https://sahirabibi.netlify.app/
+ 
  
 
 
