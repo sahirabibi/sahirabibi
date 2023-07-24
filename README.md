@@ -15,11 +15,6 @@
   - 💬 Ask me about Javascript, Python, or React!
   - 🎯 Aspiring Goal: Learn more about cloud technologies ☁️ 
   
-#### Personal: 
-  - 📖 Currently Reading: Crucial Conversations By: Kerry Patterson, et al.
-  - 👩🏽‍🎨 Currently Painting: With Acrylics!
-  - ✏️ Currently Writing: A Medium article on the pros/cons of going self-taught versus Bootcamp 
-
 ### Reach Me At: 
   - 📫 Email: sahirabibi96@gmail.com 
   - 📄 LinkedIn: https://www.linkedin.com/in/sahirabibi/
