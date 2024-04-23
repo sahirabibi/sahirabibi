@@ -10,16 +10,10 @@
 
 ### My Current Affairs:
 #### Tech:
-  - 🔭 I’m currently working on Reads a MERN application for users to create virtual book clubs and find the latest reads so we can all connect over our love for books. 📚
   - 🌱 I’m currently learning advanced topics in React, Azure, and dabbling a little in Django when I find the time! 
   - 💬 Ask me about Javascript, Python, or React!
   - 🎯 Aspiring Goal: Learn more about cloud technologies ☁️ 
-  
-### Reach Me At: 
-  - 📫 Email: sahirabibi96@gmail.com 
-  - 📄 LinkedIn: https://www.linkedin.com/in/sahirabibi/
-  - 📁 Portfolio: https://sahirabibi.netlify.app/
- 
+
  
 
 
